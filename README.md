@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [portfolio coming soon](portfolio coming soon)
 
-- ⚡ Fun fact **I start learning to code when i was 14.**
+- ⚡ Fun fact **I started learning to code when i was 14.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
